@@ -1,3 +1,24 @@
 #MainView{
     padding: 5% 5% 5% 5%;
 }
+.MainText{
+    padding-top: 1%;
+    margin-left: 25%;
+    font-weight: 600;
+}
+.MainHeading{
+    font-size: 60px;
+}
+.btn-primary{
+   background-color: blueviolet;
+   color: blueviolet;
+
+}
+.buttons{
+    padding-top: 10%;
+    margin-left: 25%;
+
+}
+.subText{
+    opacity: 0.5;
+}

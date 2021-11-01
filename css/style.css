@@ -2,23 +2,49 @@
     padding: 5% 5% 5% 5%;
 }
 .MainText{
-    padding-top: 1%;
-    margin-left: 25%;
+    margin-left: 40%;
     font-weight: 600;
 }
 .MainHeading{
-    font-size: 60px;
+    font-size: 70px;
 }
 .btn-primary{
    background-color: blueviolet;
    color: blueviolet;
-
 }
 .buttons{
     padding-top: 10%;
-    margin-left: 25%;
-
+    margin-left: 40%;
 }
 .subText{
     opacity: 0.5;
 }
+.lottieView{
+    margin-left: 8%;
+}
+.lottie{
+    padding: 0 0 0 0;
+    margin: 0% 0% 0% 0%;
+}
+#MidView{
+    padding: 5% 5% 5% 5%;
+}
+.MidViewDesign{
+    background-color: #F5F6FB;
+}
+#MidOneView{
+    padding: 5% 30% 5% 3%;
+
+}
+.MidOneView{
+    background-color: #FBF8F4;
+}
+#MidTwoView{
+    padding: 5% 3% 5% 30%;
+}
+.MidTwoView{
+    background-color: #F5F9FA;
+}
+
+
+

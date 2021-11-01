@@ -27,10 +27,18 @@
     margin: 0% 0% 0% 0%;
 }
 #MidView{
-    padding: 5% 5% 5% 5%;
+    padding: 5% 11% 5% 11%;
 }
 .MidViewDesign{
     background-color: #F5F6FB;
+    padding: 0% 0% 0% 0%;
+}
+.midText{
+    padding: 7% 5% 0% 7%;
+    margin-left: 100px;
+}
+.programImage{
+    margin-left: 20%;
 }
 #MidOneView{
     padding: 5% 30% 5% 3%;
@@ -39,12 +47,17 @@
 .MidOneView{
     background-color: #FBF8F4;
 }
+.codeView{
+    padding: 10% 5% 10% 0%;
+    margin-left: 23%;
+}
 #MidTwoView{
     padding: 5% 3% 5% 30%;
 }
 .MidTwoView{
     background-color: #F5F9FA;
 }
+
 
 
 

@@ -35,7 +35,14 @@
 }
 .midText{
     padding: 7% 5% 0% 7%;
+    padding-bottom: 0ch;
     margin-left: 100px;
+}
+.HeadingText{
+    padding: 7% 5% 0% 7%;
+    padding-bottom: 0ch;
+    margin-left: 100px;
+    font-size: 35px;
 }
 .programImage{
     margin-left: 20%;
@@ -56,6 +63,29 @@
 }
 .MidTwoView{
     background-color: #F5F9FA;
+}
+.appProjects{
+    background-color: #F0D9FF;
+    padding: 5% 3% 5% 3%;
+}
+.appProjects-1{
+    background-color: #FFBCBC;
+    padding: 5% 3% 5% 3%;
+}
+#testSection{
+    background-color: #D3E0DC;
+}
+lottie-player{
+    margin: 0 auto;
+}
+.J{
+    text-align: center;
+    font-size: 30PX;
+}
+.apps{
+    background-color: #A685E2;
+    margin: 5% 60% 20% 10%;
+    
 }
 
 

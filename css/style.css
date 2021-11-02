@@ -82,12 +82,17 @@ lottie-player{
     text-align: center;
     font-size: 30PX;
 }
-.apps{
-    background-color: #A685E2;
-    margin: 5% 80% 20% 10%;
+.project1{
+    margin: 10% 25% 3% 30%;
+    background-color: #CFE5CF
 }
-.apps-1{
-    margin: 5% 50% 100% 40%;
+.project2{
+    margin: 10% 25% 3% 30%;
+    background-color: #CFE5CF;
+}
+.project3{
+    margin: 10% 25% 3% 30%;
+    background-color: #CFE5CF
 }
 
 

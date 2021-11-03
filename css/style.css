@@ -101,6 +101,14 @@ lottie-player{
     margin: 10% 10% 10% 10%;
     text-align: center;
 }
+.LastSection{
+    background-image: url("../Images/wave-2.png");
+    background-color: #FFE3FE;
+}
+.resumeButton{
+    margin-bottom: 5%;
+}
+
 
 
 

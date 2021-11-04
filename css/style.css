@@ -83,16 +83,20 @@ lottie-player{
     font-size: 30PX;
 }
 .project1{
+    background-image: url("../Images/wave-2.png");
     margin: 10% 25% 3% 30%;
-    background-color: #CFE5CF
+    background-color: #FFE3FE;
 }
 .project2{
+    background-image: url("../Images/wave-2.png");
     margin: 10% 25% 3% 30%;
-    background-color: #CFE5CF;
+    background-color: #FFE3FE;
 }
 .project3{
+    background-image: url("../Images/wave-2.png");
     margin: 10% 25% 3% 30%;
-    background-color: #CFE5CF
+    background-color: #FFE3FE;
+    
 }
 .projectButton{
     padding-top: 5%;
@@ -108,6 +112,14 @@ lottie-player{
 .resumeButton{
     margin-bottom: 5%;
 }
+.appText{
+    text-align: center;
+    background-image: url("../Images/wave-2.png");
+    background-color: #FFE3FE;
+    margin: 10% 10% 10% 10%;
+
+}
+
 
 
 

@@ -79,6 +79,7 @@ lottie-player{
     margin: 0 auto;
 }
 .J{
+    padding: 0% 0% 3% 0%;
     text-align: center;
     font-size: 30PX;
 }
@@ -102,8 +103,12 @@ lottie-player{
     padding-top: 5%;
 }
 #WelcomeSection{
+    background-color: #F8EDED;
     margin: 10% 10% 10% 10%;
     text-align: center;
+}
+#app{
+    background-color: #F8EDED;
 }
 .LastSection{
     background-image: url("../Images/wave-2.png");
@@ -116,8 +121,22 @@ lottie-player{
     text-align: center;
     background-image: url("../Images/wave-2.png");
     background-color: #FFE3FE;
-    margin: 10% 10% 10% 10%;
+    margin: 2% 10% 10% 10%;
 
+}
+#other{
+    background-color: #F8EDED;
+    margin: 10% 10% 10% 10%;
+}
+#ConnectSection{
+    text-align: center;
+    margin: 10% 30% 10% 30%;
+}
+.SocialIcon{
+    padding-top: 10%;
+}
+.fab{
+    padding: 0% 2% 0% 2%;
 }
 
 

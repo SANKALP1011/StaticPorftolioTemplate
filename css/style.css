@@ -134,9 +134,14 @@ lottie-player{
 }
 .SocialIcon{
     padding-top: 10%;
+    text-align: center;
 }
 .fab{
     padding: 0% 2% 0% 2%;
+}
+.pText{
+    opacity: 0.5;
+    padding: 2% 0% 2% 2%
 }
 
 

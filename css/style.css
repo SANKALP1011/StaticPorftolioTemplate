@@ -1,5 +1,5 @@
 #MainView{
-    padding: 5% 5% 5% 5%;
+    padding: 3% 5% 5% 5%;
 }
 .MainText{
     margin-left: 40%;
@@ -19,18 +19,22 @@
 .subText{
     opacity: 0.5;
 }
+lottie-player{
+    padding: 0% 0% 0% 0%;
+    margin: 0% 0% 0% 0%;
+}
 .lottieView{
     margin-left: 8%;
 }
 .lottie{
     padding: 0 0 0 0;
-    margin: 0% 0% 0% 0%;
+    margin-left: 0%;
 }
 #MidView{
     padding: 5% 11% 5% 11%;
 }
 .MidViewDesign{
-    background-color: #F5F6FB;
+    background-color: #F4EEFF;
     padding: 0% 0% 0% 0%;
 }
 .midText{
@@ -39,7 +43,7 @@
     margin-left: 100px;
 }
 .HeadingText{
-    padding: 7% 5% 0% 7%;
+    padding: 7% 2% 0% 0%;
     padding-bottom: 0ch;
     margin-left: 100px;
     font-size: 35px;
@@ -52,7 +56,7 @@
 
 }
 .MidOneView{
-    background-color: #FBF8F4;
+    background-color: #EFF8FF;
 }
 .codeView{
     padding: 10% 5% 10% 0%;
@@ -62,7 +66,7 @@
     padding: 5% 3% 5% 30%;
 }
 .MidTwoView{
-    background-color: #F5F9FA;
+    background-color: #F4EEFF;
 }
 .appProjects{
     background-color: #F0D9FF;
@@ -103,11 +107,12 @@ lottie-player{
     padding-top: 5%;
 }
 #WelcomeSection{
+    background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
     background-color: #F8EDED;
     margin: 10% 10% 10% 10%;
-    text-align: center;
 }
 #app{
+    background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
     background-color: #F8EDED;
 }
 .LastSection{
@@ -122,9 +127,9 @@ lottie-player{
     background-image: url("../Images/wave-2.png");
     background-color: #FFE3FE;
     margin: 2% 10% 10% 10%;
-
 }
 #other{
+    background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
     background-color: #F8EDED;
     margin: 10% 10% 10% 10%;
 }
@@ -143,6 +148,15 @@ lottie-player{
     opacity: 0.5;
     padding: 2% 0% 2% 2%
 }
+.ProjectTitle{
+    text-align: center;
+    font-size: 100px;
+    padding: 5% 0% 0% 0%;
+}
+.appSubtext{
+    opacity: 0.5;
+}
+
 
 
 

@@ -2,7 +2,7 @@
     padding: 3% 5% 5% 5%;
 }
 .MainText{
-    margin-left: 40%;
+    margin: auto auto auto 40%;
     font-weight: 600;
 }
 .MainHeading{
@@ -19,16 +19,12 @@
 .subText{
     opacity: 0.5;
 }
-lottie-player{
-    padding: 0% 0% 0% 0%;
-    margin: 0% 0% 0% 0%;
-}
 .lottieView{
     margin-left: 8%;
 }
 .lottie{
     padding: 0 0 0 0;
-    margin-left: 0%;
+    margin: auto auto auto auto;
 }
 #MidView{
     padding: 5% 11% 5% 11%;
@@ -44,12 +40,11 @@ lottie-player{
 }
 .HeadingText{
     padding: 7% 2% 0% 0%;
-    padding-bottom: 0ch;
-    margin-left: 100px;
+    margin: auto 10%;
     font-size: 35px;
 }
 .programImage{
-    margin-left: 20%;
+    margin-left: auto auto auto 10%;
 }
 #MidOneView{
     padding: 5% 30% 5% 3%;
@@ -59,8 +54,8 @@ lottie-player{
     background-color: #EFF8FF;
 }
 .codeView{
-    padding: 10% 5% 10% 0%;
-    margin-left: 23%;
+    padding: 10% 35% 10% 0%;
+    margin: auto auto auto 23%;
 }
 #MidTwoView{
     padding: 5% 3% 5% 30%;
@@ -104,7 +99,7 @@ lottie-player{
     
 }
 .projectButton{
-    padding-top: 5%;
+    padding: auto auto 10% auto;
 }
 #WelcomeSection{
     background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
@@ -123,10 +118,20 @@ lottie-player{
     margin-bottom: 5%;
 }
 .appText{
-    text-align: center;
     background-image: url("../Images/wave-2.png");
     background-color: #FFE3FE;
     margin: 2% 10% 10% 10%;
+    background: rgba( 255, 255, 255, 0 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+animation: backwards;
+}
+.AppHeading{
+    text-align: center;
+    padding: 2% 0% 2% 0%;
 }
 #other{
     background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
@@ -135,11 +140,12 @@ lottie-player{
 }
 #ConnectSection{
     text-align: center;
-    margin: 10% 30% 10% 30%;
+    margin: 10% 20% 10% 20%;
 }
 .SocialIcon{
     padding-top: 10%;
     text-align: center;
+    margin: auto;
 }
 .fab{
     padding: 0% 2% 0% 2%;
@@ -156,7 +162,14 @@ lottie-player{
 .appSubtext{
     opacity: 0.5;
 }
-
+.EndText{
+    margin: auto;
+    font-size: 30px;
+}
+.lastSubText{
+    margin: auto;
+    opacity: 0.5;
+}
 
 
 

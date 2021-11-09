@@ -28,11 +28,16 @@
 }
 #MidView{
     padding: 5% 11% 5% 11%;
+    text-align: center;
 }
 .MidViewDesign{
     background-color: #F4EEFF;
     padding: 0% 0% 0% 0%;
 }
+/* div:hover{
+    animation: bounceInLeft;
+    animation-duration: 5s;
+} */
 .midText{
     padding: 7% 5% 0% 7%;
     padding-bottom: 0ch;
@@ -54,8 +59,8 @@
     background-color: #EFF8FF;
 }
 .codeView{
-    padding: 10% 35% 10% 0%;
-    margin: auto 10% auto 23%;
+    padding: 2% 20% 0 0%;
+    margin: auto 20% auto 20%;
 }
 #MidTwoView{
     padding: 5% 3% 5% 30%;
@@ -98,8 +103,8 @@ lottie-player{
     background-color: #FFE3FE;
     
 }
-.projectButton{
-    padding: auto auto 10% auto;
+.ProjectButton{
+    margin: auto auto 5% auto;
 }
 #WelcomeSection{
     background: linear-gradient(45deg, #C7F5FE 10%, #C7F5FE 40%, #FCC8F8 40%, #FCC8F8 60%, #EAB4F8 60%, #EAB4F8 65%, #F3F798 65%, #F3F798 90%);
@@ -151,7 +156,7 @@ animation: backwards;
 }
 .pText{
     opacity: 0.5;
-    padding: 2% 0% 2% 2%
+    padding: 5% 0% 2% 2%
 }
 .ProjectTitle{
     text-align: center;

@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="col-lg-6 m-md-auto m-sm-auto z-0">
-    <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_crm7f2hm.json" class="lottie"  background="transparent"  speed="1"  style="width: 600px; height: 600px;" loop autoplay></lottie-player>
+   <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_crm7f2hm.json" class="lottie"  background="transparent"  speed="1"  style="width: 600px; height: 600px;" loop autoplay></lottie-player>
             </div>
         </div>
       </section>
@@ -174,79 +174,6 @@
     </div>
     
 </section>
-<br>
-<br>
-<br>
-    <!-- <script>
-        const container = document.getElementsByClassName("container");
-const card = document.getElementsByClassName("card");
-
-var onMouseEnterMove = function(event){
-   update(event);
-}
-var onMouseLeaveMove = function(event){
-    card.style = "";
-}
-var onMouseMoveHandler = function(event) {
-    if (isTimeToUpdate()) {
-      update(event);
-    }
-  };
-
-container.onmouseenter = onMouseEnterMove;
-container.onmouseleave = onMouseLeaveMove;
-container.onmousemove = onMouseMoveHandler;
-
-var counter = 0;
-var updateRate = 10;
-var isTimeToUpdate = function() {
-  return counter++ % updateRate === 0;
-};
-
-var mouse = {
-    _x: 0,
-    _y: 0,
-    x: 0,
-    y: 0,
-    updatePosition: function(event) {
-      var e = event || window.event;
-      this.x = e.clientX - this._x;
-      this.y = (e.clientY - this._y) * -1;
-    },
-    setOrigin: function(e) {
-      this._x = e.offsetLeft + Math.floor(e.offsetWidth/2);
-      this._y = e.offsetTop + Math.floor(e.offsetHeight/2);
-    },
-    show: function() { return '(' + this.x + ', ' + this.y + ')'; }
-  }
-  // Track the mouse position relative to the center of the container.
-  mouse.setOrigin(container);
-
-  var update = function(event) {
-    mouse.updatePosition(event);
-    updateTransformStyle(
-      (mouse.y / card.offsetHeight/2).toFixed(2),
-      (mouse.x / card.offsetWidth/2).toFixed(2)
-    );
-  };
-  
-  var updateTransformStyle = function(x, y) {
-    var style = "rotateX(" + x + "deg) rotateY(" + y + "deg)";
-    card.style.transform = style;
-    card.style.webkitTransform = style;
-    card.style.mozTransform = style;
-    card.style.msTransform = style;
-    card.style.oTransform = style;
-  };
-    </script> -->
-    <div id="container">
-        <div id="inner">
-            <h1>hhh</h1>
-            <h1>hhh</h1>
-            <h1>hhh</h1>
-            <h1>hhh</h1>
-            </div>
-            </div>
     <script src="../js/server.js"></script>
     <script src="https://kit.fontawesome.com/f4d4f77253.js" crossorigin="anonymous"></script>
 </body>

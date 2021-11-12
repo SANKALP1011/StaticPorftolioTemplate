@@ -63,7 +63,7 @@
   var updateTransformStyle = function(x, y) {
     var style = "rotateX(" + x + "deg) rotateY(" + y + "deg)";
     inner.style.transform = style;
-    inner.style.webkitTransform = style;
+    inner.style.transform = style;
     inner.style.mozTranform = style;
     inner.style.msTransform = style;
     inner.style.oTransform = style;
@@ -75,3 +75,4 @@
   container.onmouseleave = onMouseLeaveHandler;
   container.onmouseenter = onMouseEnterHandler;
 })();
+

@@ -1,4 +1,12 @@
 
+canvas {
+    background: #EEE;
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+  }
 #MainView{
     padding: 10% 5% 5% 5%;
 }
@@ -34,6 +42,8 @@
 .MidViewDesign{
     background-color: #F4EEFF;
     padding: 0% 0% 0% 0%;
+    animation:  bounceInLeft;
+    animation-duration: 10s;
 }
 /* div:hover{
     animation: bounceInLeft;

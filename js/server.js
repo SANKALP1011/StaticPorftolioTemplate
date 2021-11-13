@@ -1,7 +1,7 @@
 (function() {
   // Init
-  var container = document.getElementById("container"),
-      inner = document.getElementById("inner");
+  var container = document.getElementById("MidView"),
+      inner = document.getElementsByClassName("MidViewDesign");
 
   // Mouse
   var mouse = {

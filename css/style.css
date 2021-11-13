@@ -1,9 +1,9 @@
 
 #MainView{
-    padding: 3% 5% 5% 5%;
+    padding: 10% 5% 5% 5%;
 }
 .MainText{
-    margin: auto auto auto 40%;
+    margin: 0% 0% 0% 40%;
     font-weight: 600;
 }
 .MainHeading{
@@ -14,14 +14,14 @@
    color: blueviolet;
 }
 .buttons{
-    padding-top: 10%;
+    padding: 10% 0% 10% 0%;
     margin-left: 40%;
 }
 .subText{
     opacity: 0.5;
 }
 .lottieView{
-    margin-left: 8%;
+    margin: 0 0 0 25%;
 }
 .lottie{
     padding: 0 0 0 0;
@@ -195,6 +195,7 @@ animation: backwards;
     -webkit-transition: transform 0.5s;
     box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.2);
   }
+  
   
 
 

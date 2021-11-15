@@ -184,31 +184,3 @@ animation: backwards;
     opacity: 0.5;
 }
 
-#container {
-    width: 100%;
-  min-height: 100vh;
-
-  /* Centers the container in the middle of the screen */
-  justify-content: center;
-  align-items: center;
-  background-color: rgb(220, 220, 220);
-  perspective: 40px;
-  }
-  #container:hover {
-    cursor: pointer;
-  }
-  #inner {
-    margin: 20% 20% 20% 20%;
-    transition: transform 0.5s;
-    -webkit-transition: transform 0.5s;
-    box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.2);
-  }
-  
-  
-
-
-
-
-
-
-

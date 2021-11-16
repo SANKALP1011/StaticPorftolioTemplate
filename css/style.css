@@ -147,8 +147,6 @@ animation: backwards;
     padding: 2% 0% 2% 0%;
 }
 #other{
-    background: linear-gradient(45deg, #C7F5FE 10%, #C7F5FE 40%, #FCC8F8 40%, #FCC8F8 60%, #EAB4F8 60%, #EAB4F8 65%, #F3F798 65%, #F3F798 90%);
-    background-color: #F8EDED;
     margin: 10% 10% 10% 10%;
 }
 #ConnectSection{

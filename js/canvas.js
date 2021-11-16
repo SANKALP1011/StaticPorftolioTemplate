@@ -159,8 +159,6 @@ var draw = () => {
   ctx.stroke()
 }
 
-
-
 var process = () => {
   width = canvas.width = innerWidth
   height = canvas.height = innerHeight

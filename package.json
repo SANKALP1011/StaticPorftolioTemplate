@@ -1,6 +1,25 @@
 {
   "dependencies": {
     "animate.css": "^4.1.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
     "scrollmagic": "^2.0.8"
-  }
+  },
+  "name": "personalportfolio",
+  "description": "My personal portfolio built using html , css and javascript.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANKALP1011/PersonalPortfolio.git"
+  },
+  "author": "Sankalp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SANKALP1011/PersonalPortfolio/issues"
+  },
+  "homepage": "https://github.com/SANKALP1011/PersonalPortfolio#readme"
 }

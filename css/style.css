@@ -141,6 +141,7 @@ animation: backwards;
 .AppHeading{
     text-align: center;
     padding: 2% 0% 2% 0%;
+    font-weight: bolder;
 }
 #other{
     margin: 10% 10% 10% 10%;
@@ -178,6 +179,13 @@ animation: backwards;
     margin: auto;
     opacity: 0.5;
 }
-
-
-
+.Text{
+    font-weight: bold;
+    padding: 1% 1% 0% 1%;
+}
+.SourceCodeButton{
+    margin: 2% 5% 2% 20%;
+}
+.LiveButton{
+    margin: 2% 2% 2% 5% ;
+}

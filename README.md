@@ -1,4 +1,4 @@
-# PersonalPortfolio
+# Portfolio Template
 Portfolio template built using html , css and javascript which can be used by anyone.
 
 > Note: It's a static portfolio design built using Vanilla html ,css and javascript.
